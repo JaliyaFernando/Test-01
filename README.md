@@ -9,36 +9,45 @@ Improve the efficiency of students studying abilities and their performance when
 	- Techniques to create suitable questions from a lesson.
 	- How to prevent malpractices during quizzes. 
 
+# Main Research Question
 
-# Questions
+
+# Individual Rsearch Questions
 ### Fernando K.J.L - IT17030304
 > Help students get an idea about the different stages when completing an assignment or studying for an exam.
 > How to predict upcoming examination questions and guide students to select the most important lessons to study.
 
-### Randima
+### Ranasinghe A.D.R.N. - IT17008006
 > What students must do so that they are able to retain what they study faster and for a longer period of time.
 > How to obtain the overall performance of a particular student in their studies.
 > Finding an efficient methods to correct students answers in quizzes.
 
-### Lakith
+### Jayalath W.J.D.L.D.D. - IT17020886
 > How to keep away students from distractions while studying.
 > Minimise cheating.
 > Methods to practice time management for exams.
 > Obtain performance of a student while doing a quiz.
 
 
-# Objectives
-Jaliya
+# Individual Objectives
+### Fernando K.J.L - IT17030304
+
+- To help the students to manage their lessons and get more knowledge regarding the lessons such as the most important sections and the lesson topics, the questions which will examine in different lessons and how many marks each question weighs.
+- To help the students to organize daily tasks and the assignments and to manage time when completing the assignments and studies.
+- To provide a plan with the resources and prioritize the steps to complete the assignments.
+- To provide suitable time slots to complete each stage which can be tracked by the students.
+- To give an opportunity to the students to enhance their knowledge and to share among the students.
+- To identify and predict the lessons which can be examined in future based on the past papers.
 
 
 
-Randima
+### Ranasinghe A.D.R.N. - IT17008006
 - Implement method with the flash card technique to help students retain what they study.
 - Correct students answers using techniques such as Ontology based Semantic Similarity.
 - Providing an easier way for getting some simple task done while doing an exam with the help of voice recognition.
 - Generate students performance report based on their marks and they're studying.
 
-Lakith
+### Jayalath W.J.D.L.D.D. - IT17020886
 - Prevent misconduct such as impersonation and cheating during exams or quizzes with the use of facial recognition, voice recognition and keystroke biometrics. 
 - Again with the utilisation of facial recognition to track users emotions while doing a quiz.
 - Monitor time for each question separately so that students are able to manage overall time for an examination.
