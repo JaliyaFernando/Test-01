@@ -1,4 +1,10 @@
-# Main Objective
+# E-Study Helper
+## AN INNOVATIVE E – LEARNING APPLICATION FOR STUDENTS AND LECTURERS
+
+Failure at exams and improve in pass rates is a current topic among educationalist and policy makers. Irony is that some students fail even after spending a lot of time in classroom studies and individual preparations. Lessons for this outcome would be manifold. These include poor absorption of study content in terms of volume and speed, poor study techniques because of mainly being engrossed in traditional techniques and lack of imagination to capture important elements. From our perspective as students “studying made easier” will remain a research forever. As we see delivering subject content, studying, providing study materials, examination techniques, marking and evaluation criteria etc. have gone through inexplicable criteria over the years. Scarcity of time has made studying and exams more challenging making it necessary to
+“study on the go”.
+
+## Main Objective
 Improve the efficiency of students studying abilities and their performance when studying which will eventually lead to better performance better at exams. In simple terms our main goal is to make studying easier with the concept of survey, questions and review.
 
 	- Better ways of helping students study rather than memorising the notes. 
@@ -9,10 +15,10 @@ Improve the efficiency of students studying abilities and their performance when
 	- Techniques to create suitable questions from a lesson.
 	- How to prevent malpractices during quizzes. 
 
-# Main Research Question
+## Main Research Question
 
 
-# Individual Rsearch Questions
+## Individual Rsearch Questions
 ### Fernando K.J.L - IT17030304
 > Help students get an idea about the different stages when completing an assignment or studying for an exam.
 > How to predict upcoming examination questions and guide students to select the most important lessons to study.
@@ -29,7 +35,7 @@ Improve the efficiency of students studying abilities and their performance when
 > Obtain performance of a student while doing a quiz.
 
 
-# Individual Objectives
+## Individual Objectives
 ### Fernando K.J.L - IT17030304
 - To help the students to manage their lessons and get more knowledge regarding the lessons such as the most important sections and the lesson topics, the questions which will examine in different lessons and how many marks each question weighs.
 - To help the students to organize daily tasks and the assignments and to manage time when completing the assignments and studies.
@@ -50,7 +56,3 @@ Improve the efficiency of students studying abilities and their performance when
 - Monitor time for each question separately so that students are able to manage overall time for an examination.
 - Use screen monitoring to prevent users from using unwanted applications while doing an exam.
 
-
-# Product Overview
-
-![Image ProductOverview](https://drive.google.com/file/d/1GNnjU0CBV3LFdW9NOkdPPRA-QiGEZ1Xw/view?usp=sharing)
