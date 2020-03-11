@@ -31,15 +31,12 @@ Improve the efficiency of students studying abilities and their performance when
 
 # Individual Objectives
 ### Fernando K.J.L - IT17030304
-
 - To help the students to manage their lessons and get more knowledge regarding the lessons such as the most important sections and the lesson topics, the questions which will examine in different lessons and how many marks each question weighs.
 - To help the students to organize daily tasks and the assignments and to manage time when completing the assignments and studies.
 - To provide a plan with the resources and prioritize the steps to complete the assignments.
 - To provide suitable time slots to complete each stage which can be tracked by the students.
 - To give an opportunity to the students to enhance their knowledge and to share among the students.
 - To identify and predict the lessons which can be examined in future based on the past papers.
-
-
 
 ### Ranasinghe A.D.R.N. - IT17008006
 - Implement method with the flash card technique to help students retain what they study.
@@ -52,3 +49,8 @@ Improve the efficiency of students studying abilities and their performance when
 - Again with the utilisation of facial recognition to track users emotions while doing a quiz.
 - Monitor time for each question separately so that students are able to manage overall time for an examination.
 - Use screen monitoring to prevent users from using unwanted applications while doing an exam.
+
+
+# Product Overview
+
+![Image ProductOverview](https://drive.google.com/open?id=1P7uVQwO4GbYlxSFu_PFbJSMtAPKarO8o)
