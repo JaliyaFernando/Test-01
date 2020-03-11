@@ -1,5 +1,5 @@
 # E-Study Helper
-## AN INNOVATIVE E – LEARNING APPLICATION FOR STUDENTS AND LECTURERS
+## An Innovative E–Learning Application for Students and Lecturers
 
 Failure at exams and improve in pass rates is a current topic among educationalist and policy makers. Irony is that some students fail even after spending a lot of time in classroom studies and individual preparations. Lessons for this outcome would be manifold. These include poor absorption of study content in terms of volume and speed, poor study techniques because of mainly being engrossed in traditional techniques and lack of imagination to capture important elements. From our perspective as students “studying made easier” will remain a research forever. As we see delivering subject content, studying, providing study materials, examination techniques, marking and evaluation criteria etc. have gone through inexplicable criteria over the years. Scarcity of time has made studying and exams more challenging making it necessary to
 “study on the go”.
@@ -33,7 +33,6 @@ Improve the efficiency of students studying abilities and their performance when
 > Minimise cheating.
 > Methods to practice time management for exams.
 > Obtain performance of a student while doing a quiz.
-
 
 ## Individual Objectives
 ### Fernando K.J.L - IT17030304
