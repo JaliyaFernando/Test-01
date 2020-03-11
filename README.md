@@ -7,16 +7,14 @@ Failure at exams and improve in pass rates is a current topic among educationali
 ## Main Objective
 Improve the efficiency of students studying abilities and their performance when studying which will eventually lead to better performance better at exams. In simple terms our main goal is to make studying easier with the concept of survey, questions and review.
 
-	- Better ways of helping students study rather than memorising the notes. 
-	- How to help students identify the most important sections of a subject to be studied.
-	- Methods to support students to manage their task and plan their work accordingly.
-	- Try to predict a particular students abilities. 
-	- How to help students to keep their minds  away from distractions while studying.
-	- Techniques to create suitable questions from a lesson.
-	- How to prevent malpractices during quizzes. 
-
 ## Main Research Question
-
+- Better ways of helping students study rather than memorising the notes. 
+- How to help students identify the most important sections of a subject to be studied.
+- Methods to support students to manage their task and plan their work accordingly.
+- Try to predict a particular students abilities. 
+- How to help students to keep their minds  away from distractions while studying.
+- Techniques to create suitable questions from a lesson.
+- How to prevent malpractices during quizzes. 
 
 ## Individual Rsearch Questions
 ### Fernando K.J.L - IT17030304
