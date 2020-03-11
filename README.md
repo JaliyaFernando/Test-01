@@ -12,19 +12,19 @@ Improve the efficiency of students studying abilities and their performance when
 
 # Questions
 ### Fernando K.J.L - IT17030304
-	> Help students get an idea about the different stages when completing an assignment or studying for an exam.
-	> How to predict upcoming examination questions and guide students to select the most important lessons to study.
+> Help students get an idea about the different stages when completing an assignment or studying for an exam.
+> How to predict upcoming examination questions and guide students to select the most important lessons to study.
 
 ### Randima
-	> What students must do so that they are able to retain what they study faster and for a longer period of time.
-	> How to obtain the overall performance of a particular student in their studies.
-	> Finding an efficient methods to correct students answers in quizzes.
+> What students must do so that they are able to retain what they study faster and for a longer period of time.
+> How to obtain the overall performance of a particular student in their studies.
+> Finding an efficient methods to correct students answers in quizzes.
 
 ### Lakith
-	> How to keep away students from distractions while studying.
-	> Minimise cheating.
-	> Methods to practice time management for exams.
-	> Obtain performance of a student while doing a quiz.
+> How to keep away students from distractions while studying.
+> Minimise cheating.
+> Methods to practice time management for exams.
+> Obtain performance of a student while doing a quiz.
 
 
 # Objectives
